@@ -17,7 +17,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     private static final String DB_NAME = "PASSWORDS";
     private static final int DB_VERSION = 1;
 
-
     public DatabaseHelper(@Nullable Context context) {
         super(context, DB_NAME, null, DB_VERSION);
     }
