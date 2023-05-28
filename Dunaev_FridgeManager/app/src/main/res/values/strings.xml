@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FridgeManager</string>
+    <string name="btnAddText">Add</string>
+    <string name="btnDeleteText">Delete</string>
+    <string name="btnEditText">Edit</string>
+    <string name="placeholder">PLACEHOLDER</string>
+    <string name="btnCancelText">Cancel</string>
+
+    <string name="btnTrashImage">\uD83D\uDDD1</string>
+    <string name="btnEditImage">\uD83D\uDEE0</string>
+    <string name="btnEatImage">\uD83C\uDF7D</string>
+</resources>
